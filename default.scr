@@ -1,0 +1,13 @@
+[main] 
+	Enter "eat", then I will provide an advice. [[Eat]]
+		random:eat
+			Picking a restaurant ...
+		add: Add
+			What's the name of the restaurant ? 
+			
+		Delete
+			What's the name of the restaurant ?
+		Cancel
+			Ok
+		all:All
+    		Fetching all the restaurant I know ...

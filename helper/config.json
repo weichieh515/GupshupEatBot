@@ -1,0 +1,8 @@
+{
+	"herokuURL": "https://tseatbot.herokuapp.com",
+	"actionEnum": {
+		"SEARCH": 1,
+		"CHOOSE": 2,
+		"DONE": 3
+	}
+}
